@@ -6,7 +6,7 @@ var cam = {
 var objects = [];
 let gun;
 let t;
-
+let amt, startColor, newColor;
 function preload() {
   gun = loadModel('gun.obj');
 }
@@ -20,12 +20,16 @@ function setup() {
   t.textFont('Source Code Pro');
   t.textAlign(CENTER);
   t.textSize(350);
-  t.fill(150);
+  t.fill(255);
   t.text('You Are', 600, 200);
   t.text('Free', 600, 450);
   t.text('to Be', 600, 700);
   t.text('Shot in', 600, 950)
   t.text('Freeland', 600, 1200)
+  startColor = color(255,255,255);
+  newColor = color(random(255),random(255),random(255));
+  amt = 0;
+  background(startColor);
 }
 
 function startDetecting() {
@@ -45,7 +49,13 @@ function cen(x) {
 }
 
 function draw() {
-  background(255);
+  background(lerpColor(startColor, newColor, amt));
+   amt += 0.01;
+  if(amt >= 1){
+    amt = 0.0;
+    startColor = newColor;
+    newColor = color(random(255),random(255),random(255));
+  }
   push()
   texture(t);
   rotateY(0 - cam.x);
