@@ -4,8 +4,10 @@ Choice and rethinking on freedom and security
 
 ## Summary
 
-This work discusses two issues of gun violence and privacy violations. And these two issues are covered by two beautiful words, freedom and security.
-I want to bring these two different choices of living environment on the table.
+This work discusses two issues of gun violence and privacy violations. And these two issues are covered by two beautiful words, freedom and security. Both of these issues are closely related to my personal experience
+
+I'm from an area where everyone's under surveillance. Although it's for security purposes, this kind of privacy invasion still makes me feel uncomfortable and not free.
+My first semester at CCA，I was robbed by 2 armed teenagers on my way to school. It was only 2 blocks amay from Oakland Campus. A few days later, a policeman called me to claim the lost property. When I saw the police take out pistols, drugs, bullets from my backpack, I realized the price of freedom.
 
 ## Component Parts
 
