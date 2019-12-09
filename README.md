@@ -8,7 +8,7 @@ This work discusses two issues of gun violence and privacy violations. And these
 
 I'm from an area where everyone's under surveillance. Although it's for security purposes, this kind of privacy invasion still makes me feel uncomfortable and not free. 
 
-My first semester at CCA，I was robbed by 2 armed teenagers on my way to school. It was only 2 blocks amay from Oakland Campus. A few days later, a policeman called me to claim the lost property. When I saw the police take out pistols, drugs, bullets from my backpack, I realized the price of freedom.
+My first semester at CCA，I was robbed by 2 armed teenagers on my way to school. It was only 2 blocks away from Oakland Campus. A few days later, a policeman called me to claim my lost backpack. When I saw the police taking out things that don’t belong to me such as pistols, drugs, and bullets from my backpack, I realized the price of freedom.
 
 ## Component Parts
 
