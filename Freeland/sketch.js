@@ -6,6 +6,7 @@ var cam = {
 var objects = [];
 let gun;
 let t;
+
 function preload() {
   gun = loadModel('gun.obj');
 }
