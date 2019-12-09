@@ -4,7 +4,7 @@ Choice and rethinking on freedom and security
 
 ## Summary
 
-This work discusses two issues of gun violence and privacy violations. And these two issues are covered by two beautiful words, freedom and security. Both of these issues are closely related to my personal experience
+This work discusses two issues of gun violence and privacy violations. And these two issues are covered by two beautiful words, freedom and security. Both of the two issues are closely related to my personal experience
 
 I'm from an area where everyone's under surveillance. Although it's for security purposes, this kind of privacy invasion still makes me feel uncomfortable and not free. 
 
