@@ -25,7 +25,7 @@ Safeland
 
 ## Timeline
 
-- Week 1: finished Safeland and started writing porposal
+- Week 1: Finished Safeland and started writing porposal
 - Week 2: Started woking on Freeland
 - Week 3: Solved technical problems
 - Week 4: Present!
